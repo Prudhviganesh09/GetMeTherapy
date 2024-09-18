@@ -77,4 +77,4 @@ npm start
 open your web browser and visit http://localhost:3000 to access the web application.You can now use and test the application locally.
 
 ## Authors
-M abhijeet
+Prudhvi Ganesh Avaru
